@@ -4,11 +4,11 @@
 <h3 align="center">Passionate Full-Stack developer about new technologies</h3>
 <img align="right" alt="Coding women" width="300" src="https://camo.githubusercontent.com/92b406742484961df85585a2624ca87c4da03814428bed001e34404cb9de054b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966" />  
   
-- 🔭 I’m currently working on [go-fullstack-v3-fr](https://github.com/b-khadija/go-fullstack-v3-fr)
+- 🔭 I’m currently working on [Node.js, Express, MongoDB](https://github.com/b-khadija/go-fullstack-v3-fr)
 
 - 🌱 I’m currently learning **JavaScript, React, Node.js, Express, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-b-khadija.vercel.app/](https://portfolio-b-khadija.vercel.app/)  
+- 👨‍💻 All of my projects are available at ✨ [myPortfolio](https://portfolio-b-khadija.vercel.app/)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
