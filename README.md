@@ -19,15 +19,10 @@
 </p>  
 
 ---------------------------  
-<h3 align="left">Github Stats</h3>  
+<h3 align="center">Github Stats</h3>  
 
-  
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b-khadija&show_icons=true&locale=en&layout=compact" alt="b-khadija" />
-</p>
 
-![khadija's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-khadija&show_icons=true&theme=radical)
-
+![khadija's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-khadija&show_icons=true&theme=radical)  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=b-khadija&show_icons=true&locale=en&layout=compact" alt="b-khadija" />
 
 
 ---------------------------  
