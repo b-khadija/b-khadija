@@ -5,6 +5,7 @@
 
 <h3 align="center">Passionate Full-Stack developer about new technologies</h3>  
 
+
 <img align="right" alt="Coding women" width="300" src="https://camo.githubusercontent.com/92b406742484961df85585a2624ca87c4da03814428bed001e34404cb9de054b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966" />  
   
 - 🔭 I’m currently working on [Node.js, Express, MongoDB](https://github.com/b-khadija/go-fullstack-v3-fr)
@@ -21,8 +22,7 @@
 ---------------------------  
 <h3 align="center">Github Stats</h3>  
 
-
-![khadija's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-khadija&show_icons=true&theme=radical)  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=b-khadija&show_icons=true&locale=en&layout=compact" alt="b-khadija" />
+<img src="https://stats.hyochan.dev/api/github-stats-advanced?login=b-khadija" width="480" alt="b-khadija github-stats">
 
 
 ---------------------------  
