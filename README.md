@@ -1,23 +1,42 @@
-![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
+<div align="center">
+  <img align="center" alt="Coding" height="360" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" style="width: 100%;">
+</div>
+
+![![Uploading image.png…]()
+](https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif)
+
+----------------------------
+<div align=center>
+    <h1 align="center">Hi 👋, I'm khadija</h1>  
+    <h3 align="center">Passionate Full-Stack developer about new technologies</h3>  
+</div>
+<br/>
+<div height=450>
+    <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9yM20yNnk3NmZmcjhzc2k1dWYza2xhMTdpanh6MGczYzcxd2t1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yALcFbrKshfoY/giphy.webp" width="250" height="250">
+  <div align="left">
+    
+  - 🔭 I’m currently working on RealTimeChat to discover **AWS Services and React Native**
+
+  - 🌱 I’m currently learning **React Native, AWS**
+
+  - 👨‍💻 All of my projects are available at ✨ [myPortfolio](https://portfolio-b-khadija.vercel.app/)
+
+  - 🚀 Looking for an apprenticeship opportunity! Open to collaboration.
+
+  - ⚡ Fun fact I love drawing anime !
   
+  </div>
+</div>
+<br/>
+<br/>
+<br/>
 
-<h1 align="center">Hi 👋, I'm khadija</h1>  
-
-<h3 align="center">Passionate Full-Stack developer about new technologies</h3>  
-
-
-<img align="right" alt="Coding women" width="300" src="https://camo.githubusercontent.com/92b406742484961df85585a2624ca87c4da03814428bed001e34404cb9de054b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966" />  
+-----------------------------
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
   
-- 🔭 I’m currently working on [Node.js, Express, MongoDB](https://github.com/b-khadija/go-fullstack-v3-fr)
-
-- 🌱 I’m currently learning **JavaScript, React, Node.js, Express, MongoDB**
-
-- 👨‍💻 All of my projects are available at ✨ [myPortfolio](https://portfolio-b-khadija.vercel.app/)  
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/khadija bayssir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khadija bayssir" height="30" width="40" /></a>
-</p>  
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,php,mysql,git,npm,aws,docker,figma)](https://skillicons.dev)
+</p>
 
 ---------------------------  
 <h3 align="center">Github Stats</h3>  
@@ -25,22 +44,6 @@
 <img src="https://stats.hyochan.dev/api/github-stats-advanced?login=b-khadija" width="480" alt="b-khadija github-stats">
 
 
----------------------------  
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,php,mysql,git,figma)](https://skillicons.dev)
-
-
-</p>
-
-<h3 align="left">Languages learning in progress:</h3>
-<p align="left"> 
-  
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
-
-</p>
 
 
 
