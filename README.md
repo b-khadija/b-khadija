@@ -1,9 +1,7 @@
-<div align="center">
-  <img align="center" alt="Coding" height="360" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" style="width: 100%;">
+<div align=center>
+  <img alt="Coding" height="360" width="100%" src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" style="max-width: 100%; height: auto;">
 </div>
 
-![![Uploading image.png…]()
-](https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif)
 
 ----------------------------
 <div align=center>
